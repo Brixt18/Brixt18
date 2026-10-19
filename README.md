@@ -1,21 +1,24 @@
 # 👋 Hi, I'm **Luca Mendez**
 
-💻 Backend Developer | 🌐 Web Developer <br>
-📍 Argentina • Working from Home <br>
+💻 Backend Software Engineer <br>
+📍 Argentina • Working from Home • Open to Relocation <br>
 🔗 [LinkedIn](https://www.linkedin.com/in/lucamendez)
 
 
 ## 🛠️ Who am I?
 
-I'm a backend developer passionate about Python and frameworks like Flask and FastAPI. I enjoy building modular and reusable solutions that deliver real value, optimizing both the code and the user experience.
+I'm a backend engineer passionate about Python and frameworks like Flask and FastAPI. I enjoy building modular and reusable solutions that deliver real value, optimizing both the code and the user experience.
+Currently building projects in Go and studying a B.Sc. in Computer Science.
+
+My motto is "Enjoy".
 
 ## 🚀 Technologies
 
 **Languages & Frameworks**  
-🐍 Python | ⚙️ Flask | ⚡FastAPI | 💻 Javascript
+🐍 Python | ⚙️ Flask | ⚡FastAPI | 💻 JavaScript | 🐿️ Go (golang)
 
-**Clud & DevOps**  
-☁️ AWS | 🐳 Docker | 🔁 CI/CD | 🧱 Apache | 🌐 Nginx
+**Cloud & DevOps**  
+☁️ AWS | ☁️ GCP | 🐳 Docker | 🔁 CI/CD
 
 **Databases**  
 🗃️ SQL | 📂 NoSQL | 🔗 SQLAlchemy | 🧬 DynamoDB
@@ -36,12 +39,13 @@ I'm a backend developer passionate about Python and frameworks like Flask and Fa
 - 🇪🇸 Spanish - Native
 - 🇬🇧 English - Fluent
 - 🇧🇷 Portuguese - Intermediate
+- 🇩🇪 German - Basic
 
 ---
 
 ## 📁 Featured Projects
 
-### 🛒 [flask-shoppingcart](https://github.com/Brixt18/flask-shoppingcart) [pre-alfa]
+### 🛒 [flask-shoppingcart](https://github.com/Brixt18/flask-shoppingcart)
 Extension to add shopping cart functionality to Flask apps.
 
 - **Easy installation**: `pip install flask-shoppingcart`
@@ -50,7 +54,7 @@ Extension to add shopping cart functionality to Flask apps.
 
 ---
 
-### 🔗 [StripePaymentsLinksBot](https://github.com/Brixt18/StripePaymentsLinksBot) [beta]
+### 🔗 [StripePaymentsLinksBot](https://github.com/Brixt18/StripePaymentsLinksBot)
 Telegram bot that generates payment links in Stripe, with user control through whitelist/blacklist.
 
 - Multi-command bot: `/products`, `/start`, `/help`, `/clear`
